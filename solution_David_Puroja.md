@@ -12,6 +12,6 @@
 
 The data of the csv is shown in Figure 1:
 
-![](image.png)
+![](image_5223654789561.png)
 
 *Figure 1: NL Beer consumption in the years against parameter WO.*
